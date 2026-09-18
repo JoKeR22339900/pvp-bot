@@ -1,0 +1,2652 @@
+[
+    {
+        "id": "1514377036586815618",
+        "name": "𝐁𝐚𝐥𝐥𝐚𝐬𝐒𝐭𝐫𝐞𝐞𝐓 #𝐊𝐚𝐥𝐛𝐢 𝐁𝐨𝐳𝐮𝐤 𝐎𝐥𝐚𝐧 𝐇𝐞𝐫𝐤𝐞𝐬𝐞",
+        "createdAt": 1789330975388,
+        "roles": [
+            {
+                "name": "ticket-bot",
+                "color": 0,
+                "hoist": false,
+                "permissions": "8",
+                "position": 1,
+                "mentionable": false
+            },
+            {
+                "name": "ErensiBOT",
+                "color": 16711684,
+                "hoist": false,
+                "permissions": "2146823679",
+                "position": 2,
+                "mentionable": false
+            },
+            {
+                "name": "Bloods Gang",
+                "color": 16711684,
+                "hoist": false,
+                "permissions": "8",
+                "position": 3,
+                "mentionable": false
+            },
+            {
+                "name": "⚠️​𝐔𝐲𝐚𝐫ı 5X + 𝐂𝐊⚠️​",
+                "color": 16711680,
+                "hoist": false,
+                "permissions": "0",
+                "position": 4,
+                "mentionable": false
+            },
+            {
+                "name": "⚠️​𝐔𝐲𝐚𝐫ı 4x⚠️​",
+                "color": 16711680,
+                "hoist": false,
+                "permissions": "0",
+                "position": 5,
+                "mentionable": false
+            },
+            {
+                "name": "⚠️​𝐔𝐲𝐚𝐫ı 3x⚠️​",
+                "color": 16711680,
+                "hoist": false,
+                "permissions": "0",
+                "position": 6,
+                "mentionable": false
+            },
+            {
+                "name": "⚠️​𝐔𝐲𝐚𝐫ı 2x⚠️​",
+                "color": 16711680,
+                "hoist": false,
+                "permissions": "0",
+                "position": 7,
+                "mentionable": false
+            },
+            {
+                "name": "⚠️​𝐔𝐲𝐚𝐫ı 1x⚠️​",
+                "color": 16711684,
+                "hoist": false,
+                "permissions": "0",
+                "position": 8,
+                "mentionable": false
+            },
+            {
+                "name": "⚠️𝙎𝙤̈𝙯𝙡𝙪̈  𝙐𝙮𝙖𝙧ı⚠️​",
+                "color": 16711680,
+                "hoist": false,
+                "permissions": "0",
+                "position": 9,
+                "mentionable": false
+            },
+            {
+                "name": "⚔️​𝐅𝐢𝐠𝐡𝐭 𝐊𝐚𝐝𝐫𝐨 𝐒𝐨𝐫𝐮𝐦𝐥𝐮𝐬𝐮⚔️​",
+                "color": 15158332,
+                "hoist": false,
+                "permissions": "0",
+                "position": 10,
+                "mentionable": false
+            },
+            {
+                "name": "kayıtsız",
+                "color": 9807270,
+                "hoist": true,
+                "permissions": "0",
+                "position": 11,
+                "mentionable": false
+            },
+            {
+                "name": "PD",
+                "color": 16747264,
+                "hoist": true,
+                "permissions": "0",
+                "position": 12,
+                "mentionable": false
+            },
+            {
+                "name": "D𝐨𝐬𝐭🤝​",
+                "color": 16711867,
+                "hoist": true,
+                "permissions": "0",
+                "position": 13,
+                "mentionable": false
+            },
+            {
+                "name": "ARP YETKİLİ",
+                "color": 15844367,
+                "hoist": false,
+                "permissions": "0",
+                "position": 14,
+                "mentionable": false
+            },
+            {
+                "name": "Ballas StreeT",
+                "color": 11993343,
+                "hoist": true,
+                "permissions": "1716309837860417",
+                "position": 15,
+                "mentionable": false
+            },
+            {
+                "name": "BOT",
+                "color": 28159,
+                "hoist": true,
+                "permissions": "0",
+                "position": 16,
+                "mentionable": false
+            },
+            {
+                "name": "A𝙡ı𝙢 𝙂𝙤̈𝙧𝙚𝙫𝙡𝙞𝙨𝙞",
+                "color": 7419530,
+                "hoist": true,
+                "permissions": "4294967296",
+                "position": 17,
+                "mentionable": false
+            },
+            {
+                "name": "🔰",
+                "color": 0,
+                "hoist": false,
+                "permissions": "469763072",
+                "position": 18,
+                "mentionable": false
+            },
+            {
+                "name": "1vs1",
+                "color": 0,
+                "hoist": false,
+                "permissions": "0",
+                "position": 19,
+                "mentionable": false
+            },
+            {
+                "name": "I𝐆𝐋",
+                "color": 15844367,
+                "hoist": true,
+                "permissions": "4294967296",
+                "position": 20,
+                "mentionable": false
+            },
+            {
+                "name": "O𝙂",
+                "color": 1146986,
+                "hoist": true,
+                "permissions": "4294967296",
+                "position": 21,
+                "mentionable": false
+            },
+            {
+                "name": "Mazaretli",
+                "color": 65333,
+                "hoist": false,
+                "permissions": "0",
+                "position": 22,
+                "mentionable": false
+            },
+            {
+                "name": "🔑",
+                "color": 15844367,
+                "hoist": false,
+                "permissions": "1024",
+                "position": 23,
+                "mentionable": false
+            },
+            {
+                "name": "💲",
+                "color": 0,
+                "hoist": false,
+                "permissions": "1100011807926",
+                "position": 24,
+                "mentionable": false
+            },
+            {
+                "name": "Boss",
+                "color": 327680,
+                "hoist": true,
+                "permissions": "0",
+                "position": 25,
+                "mentionable": false
+            },
+            {
+                "name": "⭐",
+                "color": 0,
+                "hoist": false,
+                "permissions": "8",
+                "position": 26,
+                "mentionable": false
+            },
+            {
+                "name": "Ballas StreeT",
+                "color": 0,
+                "hoist": false,
+                "permissions": "8",
+                "position": 27,
+                "mentionable": false
+            }
+        ],
+        "channels": [
+            {
+                "name": "📌𝐒ı𝐧ı𝐫𝐬ı𝐳-𝐃𝐚𝐯𝐞𝐭-𝐋𝐢𝐧𝐤📌",
+                "type": 0,
+                "parent": null,
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ]
+            },
+            {
+                "name": "𝐀𝐟𝐤 𝐎𝐝𝐚𝐬ı💤",
+                "type": 2,
+                "parent": "꧁𓊈𒆜A F K𒆜𓊉꧂",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2097152"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2097152"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2097152"
+                    }
+                ]
+            },
+            {
+                "name": "ticket-oluştur",
+                "type": 0,
+                "parent": "Ticket",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1024",
+                        "deny": "1050624"
+                    },
+                    {
+                        "id": "1530320875021402285",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Sesli SohbeT",
+                "type": 2,
+                "parent": "DOST",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1546564487593721977",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ]
+            },
+            {
+                "name": "kapatildi-mazeret-zentaxyy",
+                "type": 0,
+                "parent": "Kapatılan Ticket Logu",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1548034792719782018",
+                        "allow": "3072",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "log",
+                "type": 0,
+                "parent": "LOGLAR",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "ÖZEL SESLİ SOHBET",
+                "type": 2,
+                "parent": "Yonetim Odası 🏆",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "𝐌𝐮̈𝐥𝐚𝐤𝐚𝐭 𝐁𝐞𝐤𝐥𝐞𝐦𝐞",
+                "type": 2,
+                "parent": "𝐇𝐨𝐬̧ 𝐆𝐞𝐥𝐝𝐢𝐧𝐢𝐳",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1049600",
+                        "deny": "2097152"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[🎥] 𝐘𝐚𝐲ı𝐧𝐝𝐚𝐲ı𝐳",
+                "type": 2,
+                "parent": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "「👮‍♂️」pd",
+                "type": 0,
+                "parent": "DOST",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1546564487593721977",
+                        "allow": "3072",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ]
+            },
+            {
+                "name": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "type": 4,
+                "parent": null,
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377380511092787",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "not",
+                "type": 0,
+                "parent": "Yonetim Odası 🏆",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1051664",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "𝐊𝐚𝐲ı𝐭𝐬ı𝐳-𝐒𝐨𝐡𝐛𝐞𝐭",
+                "type": 0,
+                "parent": "𝐇𝐨𝐬̧ 𝐆𝐞𝐥𝐝𝐢𝐧𝐢𝐳",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1057792",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545921070186365058",
+                        "allow": "32517120",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "3146752",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "💬-𝐆𝐞𝐧𝐞𝐥-𝐒𝐨𝐡𝐛𝐞𝐭",
+                "type": 0,
+                "parent": "Sohbet",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377380511092787",
+                        "allow": "310042985489",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "📢-𝐃𝐮𝐲𝐮𝐫𝐮-𝐊𝐚𝐧𝐚𝐥ı",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 0,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "𝐌𝐮̈𝐥𝐚𝐤𝐚𝐭",
+                "type": 0,
+                "parent": "𝐇𝐨𝐬̧ 𝐆𝐞𝐥𝐝𝐢𝐧𝐢𝐳",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1048576",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    }
+                ]
+            },
+            {
+                "name": "giriş-çıkış🚪",
+                "type": 0,
+                "parent": null,
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "1024",
+                        "deny": "274877908992"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[🟣] B",
+                "type": 2,
+                "parent": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Mülakat Sesli 1",
+                "type": 2,
+                "parent": "𝐇𝐨𝐬̧ 𝐆𝐞𝐥𝐝𝐢𝐧𝐢𝐳",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "2097152",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1057792",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545921070186365058",
+                        "allow": "32517120",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "3146752",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Ticket",
+                "type": 4,
+                "parent": null,
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1024",
+                        "deny": "1048576"
+                    },
+                    {
+                        "id": "1530320875021402285",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "ÖZEL SESLİ SOHBET 2",
+                "type": 2,
+                "parent": "Yonetim Odası 🏆",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "4398112572416",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "basvuru-log",
+                "type": 0,
+                "parent": "LOGLAR",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "🎬-𝐊𝐢𝐥𝐥-𝐏𝐨𝐯",
+                "type": 0,
+                "parent": "Sohbet",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 7200,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "268436480"
+                    }
+                ]
+            },
+            {
+                "name": "🤝-𝐃𝐨𝐬𝐭-𝐒𝐨𝐡𝐛𝐞𝐭",
+                "type": 0,
+                "parent": "DOST",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "👔-𝐂𝐥𝐚𝐢𝐦-𝐎𝐝𝐚𝐬ı",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "274877910016"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "yönetim-bot-komut",
+                "type": 0,
+                "parent": "Yonetim Odası 🏆",
+                "position": 1,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1051664",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "moderator-only",
+                "type": 0,
+                "parent": null,
+                "position": 2,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "si̇kayet-log",
+                "type": 0,
+                "parent": "LOGLAR",
+                "position": 2,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "🤝dost-clai̇m",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 2,
+                "topic": "",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377380511092787",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[📢] TOPLANTI ODASI",
+                "type": 2,
+                "parent": "Yonetim Odası 🏆",
+                "position": 2,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1051664",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[🟣] A",
+                "type": 2,
+                "parent": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "position": 2,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "📸-𝐅𝐨𝐭𝐨-𝐂𝐥𝐢𝐩",
+                "type": 0,
+                "parent": "Sohbet",
+                "position": 2,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "268436480"
+                    }
+                ]
+            },
+            {
+                "name": "Mülakat Sesli 2",
+                "type": 2,
+                "parent": "𝐇𝐨𝐬̧ 𝐆𝐞𝐥𝐝𝐢𝐧𝐢𝐳",
+                "position": 2,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "2097152",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1057792",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "3146752",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545921070186365058",
+                        "allow": "32517120",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Yonetim Odası 🏆",
+                "type": 4,
+                "parent": null,
+                "position": 2,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1051664",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "📜𝐊𝐮𝐫𝐚𝐥𝐥𝐚𝐫",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 3,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "274877906944"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "[🟣] L",
+                "type": 2,
+                "parent": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "position": 3,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "「⚙️」bot-komut",
+                "type": 0,
+                "parent": "Sohbet",
+                "position": 3,
+                "topic": "",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "268436480"
+                    }
+                ]
+            },
+            {
+                "name": "𝐇𝐨𝐬̧ 𝐆𝐞𝐥𝐝𝐢𝐧𝐢𝐳",
+                "type": 4,
+                "parent": null,
+                "position": 3,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1057792",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545921070186365058",
+                        "allow": "32517120",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "3146752",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "Sohbet",
+                "type": 4,
+                "parent": null,
+                "position": 4,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "268436480"
+                    }
+                ]
+            },
+            {
+                "name": "🛠️craft",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 4,
+                "topic": "",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377380511092787",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[🟣] L",
+                "type": 2,
+                "parent": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "position": 4,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "🖁-𝐓𝐄𝐋𝐒𝐈̇𝐙-𝐆𝐏𝐒",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 5,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "274877910016"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "DOST",
+                "type": 4,
+                "parent": null,
+                "position": 5,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[🟣] A",
+                "type": 2,
+                "parent": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "position": 5,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "type": 4,
+                "parent": null,
+                "position": 6,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "[🟣] S",
+                "type": 2,
+                "parent": "[⚜️] ꧁𓊈𒆜Crew Ses𒆜𓊉꧂",
+                "position": 6,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": 64000,
+                "userLimit": 0,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "331351056",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "967180413300789319",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "8854361567919953",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "𝐬̧𝐢𝐤𝐚𝐲𝐞𝐭-𝐊𝐚𝐧𝐚𝐥ı❗",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 6,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "274877910016"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "🤒-𝐆𝐞𝐧𝐞𝐥-𝐌𝐚𝐳𝐞𝐫𝐞𝐭",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 7,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377380511092787",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "꧁𓊈𒆜A F K𒆜𓊉꧂",
+                "type": 4,
+                "parent": null,
+                "position": 7,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": []
+            },
+            {
+                "name": "𝘼𝙠𝙩𝙞𝙛𝙡𝙞𝙠-𝙏𝙞𝙠-✅",
+                "type": 0,
+                "parent": "⚠️「ÖNEMLİ KANALLAR」⚠️",
+                "position": 8,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1051648",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1516056679056277595",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1545905147727843469",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "3072"
+                    },
+                    {
+                        "id": "1514377866534453379",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1514378099188568154",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515102998051684394",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377806606237797",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "id": "1515103098488488008",
+                        "allow": "1048576",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1516402309645733908",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1545904584818696302",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377380511092787",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "name": "LOGLAR",
+                "type": 4,
+                "parent": null,
+                "position": 8,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377589140230195",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ]
+            },
+            {
+                "name": "Kapatılan Ticket Logu",
+                "type": 4,
+                "parent": null,
+                "position": 9,
+                "topic": null,
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "bitrate": null,
+                "userLimit": null,
+                "permissionOverwrites": [
+                    {
+                        "id": "1514377036586815618",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "id": "1514377380511092787",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "ownerID": "824310984667430924",
+    "logChannelID": "1515101569522339850",
+
+    "limits": {
+        "channelDelete": 2,
+        "channelCreate": 2,
+        "channelUpdate": 2,
+
+        "roleDelete": 2,
+        "roleCreate": 2,
+        "roleUpdate": 2,
+
+        "ban": 2,
+        "kick": 2,
+
+        "botAdd": 1,
+
+        "webhook": 1,
+
+        "emojiCreate": 3,
+        "emojiDelete": 3,
+        "emojiUpdate": 3,
+
+        "guildUpdate": 1
+    }
+}
