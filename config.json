@@ -11,7 +11,7 @@
         "roleCreate": 2,
         "roleUpdate": 2,
 
-        "ban": 2,
+        "ban": 1,
         "kick": 2,
 
         "botAdd": 1,
