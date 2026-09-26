@@ -1,5 +1,6 @@
 const { AuditLogEvent } = require("discord.js");
 const guard = require("../utils/guard");
+const db = require("../utils/database");
 
 module.exports = {
     name: "guildMemberAdd",
@@ -7,6 +8,11 @@ module.exports = {
     async execute(client, member) {
 
         if (!member.user.bot) return;
+
+        // Guard kapalıysa hiçbir işlem yapma
+        const settings = db.read("settings.json");
+
+        if (!settings.guard) return;
 
         try {
 
@@ -34,7 +40,7 @@ module.exports = {
                 punishment: "kick"
             });
 
-            // Eklenen botu da sunucudan çıkar
+            // Eklenen botu sadece Guard açıksa çıkar
             await member.kick("Guard | Yetkisiz Bot Ekleme").catch(() => {});
 
         } catch (err) {
