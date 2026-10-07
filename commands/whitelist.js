@@ -14,17 +14,23 @@ module.exports = {
 
         .setDefaultMemberPermissions(PermissionFlagsBits.Administrator)
 
-        .addSubcommand(sub =>
-            sub
-                .setName("ekle")
-                .setDescription("Whitelist'e kullanıcı ekle")
-                .addUserOption(option =>
-                    option
-                        .setName("kullanici")
-                        .setDescription("Kullanıcı")
-                        .setRequired(true)
-                )
+    .addSubcommand(sub =>
+    sub
+        .setName("ekle")
+        .setDescription("Whitelist'e kullanıcı ekle")
+        .addUserOption(option =>
+            option
+                .setName("kullanici")
+                .setDescription("Discord kullanıcısı")
+                .setRequired(false)
         )
+        .addStringOption(option =>
+            option
+                .setName("id")
+                .setDescription("Discord kullanıcı ID'si")
+                .setRequired(false)
+        )
+)
 
         .addSubcommand(sub =>
             sub
