@@ -32,18 +32,23 @@ module.exports = {
         )
 )
 
-        .addSubcommand(sub =>
-            sub
-                .setName("sil")
-                .setDescription("Whitelist'ten kullanıcı sil")
-                .addUserOption(option =>
-                    option
-                        .setName("kullanici")
-                        .setDescription("Kullanıcı")
-                        .setRequired(true)
-                )
+   .addSubcommand(sub =>
+    sub
+        .setName("sil")
+        .setDescription("Whitelist'ten kullanıcı sil")
+        .addUserOption(option =>
+            option
+                .setName("kullanici")
+                .setDescription("Discord kullanıcısı")
+                .setRequired(false)
         )
-
+        .addStringOption(option =>
+            option
+                .setName("id")
+                .setDescription("Discord kullanıcı ID'si")
+                .setRequired(false)
+        )
+)
         .addSubcommand(sub =>
             sub
                 .setName("liste")
